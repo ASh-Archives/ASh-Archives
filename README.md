@@ -1,29 +1,36 @@
 ## 👋 Привет! Я Абдулагаджи
 
-> 📊 **Data Scientist** | 🐍 Python разработчик | 🎯 Аналитик данных | 🌱 Постоянно учусь
+**Data Scientist** | **Python разработчик** | **Аналитик данных**
 
 Я создаю **осмысленные данные из хаоса**, превращая сырые числа в **понятные бизнес-решения**.  
 Моя миссия — сделать анализ данных **доступным, понятным и полезным** для всех.
 
-## 📬 Связаться со мной
+📬 Связаться со мной
 
-<div align="center">
-  <a href="mailto:abdulagadzhi.sh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
-  </a>
+<div align="left">
   <a href="https://t.me/Abdulagadzhi">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
+  </a>
+  <a href="mailto:abdulagadzhi.sh@gmail.com">
+    <img src="https://img.shields.io/badge/abdulagadzhi.sh@gmail.com-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
   <a href="https://hh.ru/resume/10d110d7ff0eb5126e0039ed1f616e54775654">
     <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge" alt="HeadHanter"/>
   </a>
 </div>
 
-[Диплом (ENG)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_ENG_Shagrudinov.pdf)
-[Диплом (RUS)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_RUS_Shagrudinov.pdf)
+<br>
 
+🌱 Специалист по Data Science
 
----
+<div align="left">
+  <a href="https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_RUS_Shagrudinov.pdf">
+    <img src="https://img.shields.io/badge/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20(RUS)-%23006241?style=for-the-badge" alt="Static Badge">
+  </a>
+  <a href="https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_ENG_Shagrudinov.pdf">
+    <img src="https://img.shields.io/badge/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%20(ENG)-white?style=for-the-badge" alt="Static Badge">
+  </a>
+</div>
 
 ## 🧠 Мой технологический стек
 
@@ -37,8 +44,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="SQL"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-badge" alt="Jupyter"/>
 </div>
-
----
 
 ## 🚀 Избранные проекты
 
@@ -59,14 +64,3 @@
     <img src="https://img.shields.io/badge/Посмотреть_все_проекты-3776AB?style=for-the-badge&logo=github&logoColor=white" alt="Все проекты"/>
   </a>
 </div>
-
----
-
-## 🌱 Чем я дышу
-
-| Категория | Интересы |
-|-----------|----------|
-| **Профессионально** | Анализ данных, машинное обучение, визуализация, оптимизация бизнес-процессов |
-| **Технически** | Python, SQL, Pandas, NumPy, Matplotlib, scikit-learn, Keras |
-| **Лично** | Дипломированный специалист, наставничество, открытые данные, технические блоги |
-| **В планах** | Создание open-source инструментов для анализа данных, участие в хакатонах |
