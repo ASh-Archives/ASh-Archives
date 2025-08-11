@@ -3,29 +3,31 @@
 ## 📬 Связаться со мной
 
 <div align="center">
-  <a href="mailto:ash.archivess@gmail.com">
+  <a href="mailto:abdulagadzhi.sh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"/>
   </a>
-  <a href="https://t.me/ash_archives">
+  <a href="https://t.me/Abdulagadzhi">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram"/>
   </a>
-  <a href="https://linkedin.com/in/ash-archives">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
+  <a href="https://hh.ru/resume/10d110d7ff0eb5126e0039ed1f616e54775654">
+    <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge" alt="HeadHanter"/>
   </a>
 </div>
 
 ---
 
-## 👋 Привет! Я Александр
+## 👋 Привет! Я Абдулагаджи
 
 > 📊 **Data Scientist** | 🐍 Python разработчик | 🎯 Аналитик данных | 🌱 Постоянно учусь
 
 Я создаю **осмысленные данные из хаоса**, превращая сырые числа в **понятные бизнес-решения**.  
 Моя миссия — сделать анализ данных **доступным, понятным и полезным** для всех.
 
+[Диплом (ENG)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_ENG_Shagrudinov.pdf)
+[Диплом (RUS)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_RUS_Shagrudinov.pdf)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ASh-Archives&show_icons=true&theme=radical&count_private=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ASh-Archives&layout=compact&theme=radical" width="48%"/>
 </div>
 
 ---
@@ -67,19 +69,6 @@
 
 ---
 
-## 📊 Мой путь в Data Science
-
-```mermaid
-timeline
-    title Мой путь в Data Science
-    2021 : Начало изучения Python
-    2022 : Первые проекты по анализу данных
-    2023 : Углубление в машинное обучение
-    2024 : Профессиональные проекты и оптимизация процессов
-```
-
----
-
 ## 🌱 Чем я дышу
 
 | Категория | Интересы |
@@ -99,13 +88,6 @@ timeline
 
 ---
 
-## 💬 Цитата дня
-
-> "В данных есть красота, которую можно увидеть только через анализ."  
-> — *Александр, Data Scientist*
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ASh-Archives&label=Просмотры&color=3776AB&style=for-the-badge" alt="Просмотры профиля"/>
   <br/>
@@ -114,22 +96,5 @@ timeline
 
 ---
 
-## 🧩 Как это работает?
-
-Этот README создан с использованием:
-- [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Mermaid Live Editor](https://mermaid.live/)
-- [Shields.io](https://shields.io/)
-- [Typing SVG](https://readme-typing-svg.demolab.com/)
-
-Весь код открыт и доступен на GitHub. Не стесняйтесь вносить предложения и улучшения!
-
----
-
 > ✨ **P.S.** Этот профиль обновляется автоматически каждый раз, когда я пушу новые изменения.  
 > Последнее обновление: `2023-10-15`
-
-<!-- Скрытые ссылки на дипломы -->
-[Диплом (ENG)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_ENG_Shagrudinov.pdf)
-[Диплом (RUS)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_RUS_Shagrudinov.pdf)
