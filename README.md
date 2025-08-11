@@ -26,9 +26,6 @@
 [Диплом (ENG)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_ENG_Shagrudinov.pdf)
 [Диплом (RUS)](https://github.com/ASh-Archives/ASh-Archives/blob/main/Diplom_RUS_Shagrudinov.pdf)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ASh-Archives&show_icons=true&theme=radical&count_private=true" width="48%"/>
-</div>
 
 ---
 
